@@ -23,7 +23,6 @@
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="Mahdi-Rom/android_bootable_recovery" groups="pdk" remote="github" revision="kk-4.4.3" />
-  <project path="cts" name="platform/cts" groups="cts" />
   <project path="dalvik" name="Mahdi-Rom/android_dalvik" remote="github" revision="kk-4.4.3" />
   <project path="developers/build" name="platform/developers/build" />
   <project path="developers/demos" name="platform/developers/demos" />
